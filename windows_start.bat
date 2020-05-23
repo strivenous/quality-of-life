@@ -67,6 +67,8 @@ type %mesg%
 pause
 :: the end
 
+:: @TODO closes instantly when launched, fix later 
+:: poc for now
 
 
 
